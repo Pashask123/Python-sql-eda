@@ -5,7 +5,7 @@ This project focuses on Exploratory Data Analysis (EDA) using Python and SQL. It
 
 ## Technologies Used
 - **Python**: A high-level programming language used for data manipulation and analysis.
-- **SQLite**: A C library that provides a lightweight disk-based database.
+- **SQL**: A C library that provides a lightweight disk-based database.
 - **Pandas**: A powerful data analysis and manipulation library for Python.
 - **Matplotlib/Seaborn**: Libraries for data visualization in Python.
 
